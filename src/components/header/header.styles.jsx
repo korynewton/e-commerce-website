@@ -21,11 +21,6 @@ export const OptionsContainer = styled.div`
   display: flex;
   align-items: center;
   justify-content: flex-end;
-
-  .option {
-    padding: 10px 15px;
-    cursor: pointer;
-  }
 `;
 
 export const OptionLink = styled(Link)`
